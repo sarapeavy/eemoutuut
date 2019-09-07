@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eehausesha.schmittfamily.com/sitemap.xml
